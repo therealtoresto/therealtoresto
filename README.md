@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [**Venbest**](https://venbest.ua/?utm_source=google&utm_medium=cpc&utm_campaign=search_brand_kiev&utm_content=brand&gclid=CjwKCAjwq-WgBhBMEiwAzKSH6KMvET-qjMX8Dj1phKqPRKIE88OSETT50L93F8Fzc2JUNzg4FbcaxRoCDuoQAvD_BwE)
+- 🔭 I’m currently working on Freelance
 - 🌱 I’m currently learning [**Fastify**](https://github.com/fastify/fastify)
 - 👯 I’m looking to collaborate on [**Node.js**](https://github.com/nodejs/node)
-- 💬 Ask me about Node.js, Postgres
+- 🤔 I’m looking for help with getting a job in a product company.
+- 💬 Ask me about Node.js, Nest.js, React.js
 - 📫 How to reach me: [**Gmail**](therealtoresto@gmail.com), [**LinkedIn**](https://www.linkedin.com/in/terens-boroni-06b670173), [**Twitter**](https://twitter.com/Bondaruk24)
 <!--
 **therealtoresto/therealtoresto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 🤔 I’m looking for help with getting a job in a product company.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
