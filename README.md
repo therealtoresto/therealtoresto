@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Software developer on [**Venbest**](https://venbest.ua/)
+- 🔭 I’m currently working as Senior Software engineer on [**Smartico.ai**](https://smartico.ai/)
 - 🌱 I’m currently learning [**Fastify**](https://github.com/fastify/fastify)
 - 👯 I’m looking to collaborate on [**Node.js**](https://github.com/nodejs/node)
-- 💬 Ask me about Node.js, Postgres
-- 📫 How to reach me: [**Gmail**](therealtoresto@gmail.com), [**LinkedIn**](https://www.linkedin.com/in/terens-boroni-06b670173), [**Twitter**](https://twitter.com/Bondaruk24)
+- 💬 Ask me about Node.js, React, Postgres, BigQuery.
+- 📫 How to reach me: [**Gmail**](therealtoresto@gmail.com), [**LinkedIn**](https://www.linkedin.com/in/therealtoresto/), [**Twitter**](https://twitter.com/Bondaruk24)
 <!--
 **therealtoresto/therealtoresto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
