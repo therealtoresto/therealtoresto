@@ -1,22 +1,5 @@
-### Hi there 👋
+Senior engineer at [Smartico](https://smartico.ai). I build the systems behind real-time
+user engagement and CRM automation for 1,000+ consumer brands, and lately the agentic
+tooling (MCP) that lets LLMs work safely inside them.
 
-- 🔭 I’m currently working as Senior Software engineer on [**Smartico.ai**](https://smartico.ai/)
-- 🌱 I’m currently learning [**Fastify**](https://github.com/fastify/fastify)
-- 👯 I’m looking to collaborate on [**Node.js**](https://github.com/nodejs/node)
-- 💬 Ask me about Node.js, React, Postgres, BigQuery.
-- 📫 How to reach me: [**Gmail**](therealtoresto@gmail.com), [**LinkedIn**](https://www.linkedin.com/in/therealtoresto/), [**Twitter**](https://twitter.com/Bondaruk24)
-<!--
-**therealtoresto/therealtoresto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 🤔 I’m looking for help with getting a job in a product company.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/therealtoresto/) · [X](https://x.com/Bondaruk24) · therealtoresto@gmail.com
